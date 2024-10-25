@@ -1,0 +1,15 @@
+body {
+    font-family: sans-serif;
+}
+footer {
+    background-color: lightcoral;
+    font-size: 20px;
+}
+header {
+    background-color: lightcoral;
+    text-align: center;
+}
+ul {
+   list-style: url (); 
+
+}
