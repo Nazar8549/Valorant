@@ -1,0 +1,14 @@
+body {
+    font-family: sans-serif;
+}
+footer,p {
+    background-color: lightcoral;
+    font-size: 20px;
+}
+header {
+    background-color: lightcoral;
+}
+main p {
+    border-: inset 2px;
+}
+
